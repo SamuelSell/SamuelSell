@@ -1,4 +1,4 @@
-- Hello, I'm @GoatChez
+- Hello, I'm @SamuelSell
 - I am currently learnig a few different languanges and modules while in high school.
 - I am trying to create a Unity game. Hopefully it goes well!
 - If you are trying to reach me : goatchez28@gmail.com
